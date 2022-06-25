@@ -15,6 +15,7 @@ Okno sfml działa w osobnym wątku i zmiana kolorów z wątka głównego następ
 
 ### Nagranie:
 
+https://user-images.githubusercontent.com/25119453/175793581-4fbe4565-3f5c-42a8-b0b8-7b2906ba47bf.mp4
 
 
 ### Jak uruchomić:
