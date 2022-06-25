@@ -5,7 +5,7 @@ Jest to program symulujący różne sposoby sortowań. Wiele takich animacji jes
 
 #### Sterowanie
 * Strzałkami góra/doł można przyśpieszyć/zwolnić
-* Lewy Ctrl ustawie prędkość na maksymalną
+* Lewy Ctrl ustawia prędkość na maksymalną
 
 #### Szczegóły implementacyjne
 Zamysł jest taki, by móc wykonać zwykłą funcję sortującą skopiowaną z internetu, na bieżąco wyświetlając w oknie porównywane elementy. 
@@ -22,5 +22,5 @@ https://user-images.githubusercontent.com/25119453/175793581-4fbe4565-3f5c-42a8-
 1) Pobierz SFML w wersji 2.5.1 dla kompilatora GCC 7.3.0 MinGW (SEH) - 64-bit (w przypadku Windowsa). https://www.sfml-dev.org/download/sfml/2.5.1/
 2) Wybierz odpowiedni kompilator w Clion(jak nie masz to pobierz z powżyszego linku)
 3) Ustaw w CMakeLists.txt odpowiednie ścieżki do SFML
-4) skompiluj
+4) Skompiluj
 
